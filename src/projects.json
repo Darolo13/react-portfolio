@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Cherp",
+        "image": "https://github.com/JHallUofA/b2b-inventory/raw/main/assets/screenshots/login.png",
+        "github": "https://github.com/kpehl/react-retreat",
+        "deploy": "https://cherp-io.herokuapp.com/",
+        "topics": "JavaScript, MySQL, sequelize, bcrypt, dotenv, xlsx, connect-session-sequelize, express"
+    },
+    {
+        "id": 2,
+        "name": "Deep Thoughts",
+        "image": "https://github.com/Darolo13/deep-thoughts/raw/main/screenshot/main.png",
+        "github": "https://github.com/Darolo13/deep-thoughts",
+        "deploy": "https://deep-thoughts-io.herokuapp.com/",
+        "topics": "Node.js, NoSQL, MongoDB, MERN, JWT"
+    },
+    {
+        "id": 3,
+        "name": "Food Junkies",
+        "image": "https://github.com/zdensamson/food_junkies/raw/main/assets/screenshots/main.png",
+        "github": "https://github.com/zdensamson/food_junkies",
+        "deploy": "https://zdensamson.github.io/food_junkies/",
+        "topics": "Node.js, API's, JavaScript, CSS, HTML"
+    },
+    {
+        "id": 4,
+        "name": "The-Tech-Blog",
+        "image": "https://github.com/Darolo13/The-Tech-Blog/raw/main/assets/screenshots/main.png",
+        "github": "https://github.com/Darolo13/The-Tech-Blog",
+        "deploy": "https://the-tech-blog-io.herokuapp.com/",
+        "topics": "JavaScript, Express, Node.js, Heroku, Sequelize, HTML, CSS, JawsDB"
+    },
+    {
+        "id": 5,
+        "name": "Run Buddy, Inc",
+        "image": "https://github.com/Darolo13/Employee-Tracker/raw/main/assets/screenshots/main.png",
+        "github": "https://github.com/Darolo13/run-buddy",
+        "deploy": "https://darolo13.github.io/run-buddy/",
+        "topics": "JavaScript, CSS, HTML"
+    },
+    {
+        "id": 6,
+        "name": "Note-Taker",
+        "image": "https://github.com/Darolo13/Note-Taker/raw/main/public/assets/screenshots/main.png",
+        "github": "https://github.com/Darolo13/Note-Taker",
+        "deploy": "https://note-taker-io.herokuapp.com/",
+        "topics": "JavaScript, Express.js, Node.js, Heroku, CSS, HTML"
+    }
+]
