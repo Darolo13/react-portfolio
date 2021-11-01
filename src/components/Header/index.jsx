@@ -1,9 +1,9 @@
-import Nav from '../Navigation'
+import Navigation from '../Navigation'
 
 export default function Header() {
     return (
         <div>
-            <Nav />
+            <Navigation />
         </div>
     )
 }
