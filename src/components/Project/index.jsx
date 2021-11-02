@@ -1,3 +1,5 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 function Project(props) {
     return (
       <div className="card"> 
@@ -6,13 +8,13 @@ function Project(props) {
         </div>
         <div className="content">
               <p className="card-title">{props.name}</p>
-              <p class="proj-icons-container">
-              <a href={props.github}><img class="project-icon" src="https://img.icons8.com/fluency-systems-regular/48/000000/repository.png" alt="GitHub Repo" /></a> 
-              <a href={props.deploy}><img class="project-icon" src="https://img.icons8.com/fluency-systems-regular/48/000000/launched-rocket.png" alt="Live Application" /></a> 
+              <p className="proj-icons-container">
+              <a href={props.github}><img className="project-icon" src="https://img.icons8.com/fluency-systems-regular/48/000000/repository.png" alt="GitHub Repo" /></a> 
+              <a href={props.deploy}><img className="project-icon" src="https://img.icons8.com/fluency-systems-regular/48/000000/launched-rocket.png" alt="Live Application" /></a> 
        
              
              </p>
-              <p class="topics">
+              <p className="topics">
                     ({props.topics})
                 </p>
         </div>

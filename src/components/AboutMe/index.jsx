@@ -2,10 +2,10 @@
 export default function AboutMe() {
     return (
         <section className="container">
-            <h2 class="top-title">David Romero</h2>
+            <h2 className="top-title">David Romero</h2>
             <hr></hr>
             <div>
-                <img class="mb-5" id="avatar" src="https://github.com/Darolo13/Darolo13.github.io/blob/main/img/normal.jpeg?raw=true" height="150" alt="David Romero" />
+                <img className="mb-5" id="avatar" src="https://github.com/Darolo13/Darolo13.github.io/blob/main/img/normal.jpeg?raw=true" height="150" alt="David Romero" />
 
                 <p>
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minima, quas sit? Accusamus alias quaerat, nostrum est esse libero quod similique debitis necessitatibus! Debitis, suscipit corrupti? Exercitationem at dolores in odio.
