@@ -8,16 +8,20 @@ export default function Topbar() {
                 <div className="left">
                     <a href="#intro" className="logo">Darolo</a>
                     <div className="itemContainer">
-                        <Person className="icon"/>
+                        <Person className="icon" />
                         <span>+00 000 00 00</span>
                     </div>
                     <div className="itemContainer">
-                        <Mail  className="icon"/>
+                        <Mail className="icon" />
                         <span>daro@example.com</span>
                     </div>
                 </div>
                 <div className="right">
-
+                    <div className="hamburger">
+                        <span className="line1"></span>
+                        <span className="line2"></span>
+                        <span className="line3"></span>
+                    </div>
                 </div>
             </div>
         </div>
