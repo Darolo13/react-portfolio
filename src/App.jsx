@@ -1,9 +1,13 @@
+// components
 import Topbar from './components/Topbar';
 import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
 import Work from './components/Work';
 import Tbd from './components/Tbd';
 import Contact from './components/Contact'
+
+// style 
+import './app.scss'
 
 function App() {
   return (
