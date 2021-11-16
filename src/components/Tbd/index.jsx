@@ -2,7 +2,7 @@ import './tbd.scss'
 
 export default function Tbd() {
     return (
-        <div className="tbd">
+        <div className="tbd" id="tbd">
             tbd
         </div>
     )
