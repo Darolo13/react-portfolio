@@ -11,8 +11,8 @@
 
 ## Technologies Used
 - Tech 1 - HTML
-- Tech 2 - CSS
-- Tech 3 - SCSS
+- Tech 2 - SCSS
+- Tech 3 - React.js
 
 
 ## Features
