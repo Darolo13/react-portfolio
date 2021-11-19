@@ -29,7 +29,7 @@ export const webPortfolio = [
     {
         id: 1,
         title: "Dev-wiki",
-        img: "https://github.com/JHallUofA/b2b-inventory/blob/main/assets/screenshots/editInv.png?raw=true",
+        img: "https://github.com/zdensamson/DEV-WIKI/raw/main/assets/screenshot/main.png",
         link: "https://dev-wiki-io.herokuapp.com/"
     },
     {
