@@ -41,7 +41,7 @@ export default function Work() {
     };
 
     return (
-        <div className="work" id="work">
+        <div className="works" id="works">
             <div
                 className="slider"
                 style={{ transform: `translateX(-${currentSlide * 100}vw)` }}
