@@ -26,7 +26,6 @@ function App() {
         <Work />
         <Tbd />
         <Contact />
-
       </div>
     </div>
   );
