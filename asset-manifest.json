@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio-darolo/static/css/main.c34364c8.chunk.css",
-    "main.js": "/react-portfolio-darolo/static/js/main.c045eb10.chunk.js",
-    "main.js.map": "/react-portfolio-darolo/static/js/main.c045eb10.chunk.js.map",
+    "main.js": "/react-portfolio-darolo/static/js/main.fa11de0c.chunk.js",
+    "main.js.map": "/react-portfolio-darolo/static/js/main.fa11de0c.chunk.js.map",
     "runtime-main.js": "/react-portfolio-darolo/static/js/runtime-main.2613c253.js",
     "runtime-main.js.map": "/react-portfolio-darolo/static/js/runtime-main.2613c253.js.map",
     "static/js/2.33f816a4.chunk.js": "/react-portfolio-darolo/static/js/2.33f816a4.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.2613c253.js",
     "static/js/2.33f816a4.chunk.js",
     "static/css/main.c34364c8.chunk.css",
-    "static/js/main.c045eb10.chunk.js"
+    "static/js/main.fa11de0c.chunk.js"
   ]
 }
