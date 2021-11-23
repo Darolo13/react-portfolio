@@ -43,7 +43,7 @@ Project is: _in progress_
 ## Room for Improvement
 Room for improvement:
 - Color Pallette
-- Design
+- _Design_
 
 To do:
 - _Add Animations_
