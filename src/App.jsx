@@ -4,7 +4,7 @@ import Topbar from './components/Topbar';
 import Intro from './components/Intro';
 import Portfolio from './components/Portfolio';
 import Work from './components/Work';
-import Tbd from './components/Tbd';
+import Resume from './components/Resume';
 import Contact from './components/Contact'
 
 // style 
@@ -24,7 +24,7 @@ function App() {
         <Intro />
         <Portfolio />
         <Work />
-        <Tbd />
+        <Resume />
         <Contact />
       </div>
     </div>
