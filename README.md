@@ -47,4 +47,4 @@ Room for improvement:
 
 To do:
 - _Add Animations_
-- Add more projects
+- _Add more projects_
