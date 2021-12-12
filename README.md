@@ -1,4 +1,4 @@
-# **_react-portfolio_**
+# *_react-portfolio_*
 > Portfolio Webpage where I'll display the projects I've been working on.
 > Live demo [_here_](https://darolo13.github.io/react-portfolio-darolo/). 
 
