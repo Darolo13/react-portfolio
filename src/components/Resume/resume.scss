@@ -1,19 +1,53 @@
 .resume {
     background-color: rgb(177, 177, 177);
+    display: flex;
 
-    .container {
-        display: flex;
-        padding: 50px 50px;
-        margin: 20px;
+
+    .left {
+        flex: 1;
+        overflow: hidden;
 
         .summary {
-
+            display: flex;
+            flex-direction: column;
+            padding: 50px 50px;
             h2 {
                 text-align: center;
             }
 
             p {
                 text-align: center;
+                
+            }
+        }
+    }
+
+    .right {
+        flex: 1;
+        display: flex;
+
+        .tech-skills {
+            display: flex;
+            flex-direction: column;
+            padding: 50px 50px;
+            align-items: center;
+
+            .resumeLink {
+                display: flex;
+                justify-content: center;
+                text-decoration: none;
+                padding: 10px;
+
+                button {
+                    border-radius: 10px;
+                    transition: all ease-in 0.1s;
+                    border: none;
+                }
+
+                button:hover {
+                    background-color: #15023a;
+                    color: #ffffff;
+                }
             }
         }
     }
