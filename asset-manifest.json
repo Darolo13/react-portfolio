@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-portfolio-darolo/static/css/main.f562f178.chunk.css",
-    "main.js": "/react-portfolio-darolo/static/js/main.7ba8b76e.chunk.js",
-    "main.js.map": "/react-portfolio-darolo/static/js/main.7ba8b76e.chunk.js.map",
+    "main.css": "/react-portfolio-darolo/static/css/main.0ff37001.chunk.css",
+    "main.js": "/react-portfolio-darolo/static/js/main.a9708a09.chunk.js",
+    "main.js.map": "/react-portfolio-darolo/static/js/main.a9708a09.chunk.js.map",
     "runtime-main.js": "/react-portfolio-darolo/static/js/runtime-main.2613c253.js",
     "runtime-main.js.map": "/react-portfolio-darolo/static/js/runtime-main.2613c253.js.map",
     "static/js/2.83c9b089.chunk.js": "/react-portfolio-darolo/static/js/2.83c9b089.chunk.js",
     "static/js/2.83c9b089.chunk.js.map": "/react-portfolio-darolo/static/js/2.83c9b089.chunk.js.map",
     "index.html": "/react-portfolio-darolo/index.html",
-    "static/css/main.f562f178.chunk.css.map": "/react-portfolio-darolo/static/css/main.f562f178.chunk.css.map",
+    "static/css/main.0ff37001.chunk.css.map": "/react-portfolio-darolo/static/css/main.0ff37001.chunk.css.map",
     "static/js/2.83c9b089.chunk.js.LICENSE.txt": "/react-portfolio-darolo/static/js/2.83c9b089.chunk.js.LICENSE.txt",
     "static/media/resume.a14e19a1.pdf": "/react-portfolio-darolo/static/media/resume.a14e19a1.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.2613c253.js",
     "static/js/2.83c9b089.chunk.js",
-    "static/css/main.f562f178.chunk.css",
-    "static/js/main.7ba8b76e.chunk.js"
+    "static/css/main.0ff37001.chunk.css",
+    "static/js/main.a9708a09.chunk.js"
   ]
 }
