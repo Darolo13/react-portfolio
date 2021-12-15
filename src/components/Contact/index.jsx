@@ -1,5 +1,6 @@
 import { useState } from 'react'
-import './contact.scss'
+import './contact_01.scss'
+// import './contact.scss'
 
 export default function Contact() {
     const [message, setMessage] = useState(false);
@@ -15,13 +16,28 @@ export default function Contact() {
                 <img src="assets/shake.svg" alt="" />
             </div>
             <div className="right">
-                <h2>Contact</h2>
-                <form onSubmit={handleSubmit}>
-                    <input type="text" placeholder="Email" />
-                    <textarea placeholder="Message"></textarea>
-                    <button type="submit">Send</button>
-                    {message && <span>Thanks, I'll reply as soon as possible!</span>}
-                </form>
+                <h2>Contact Me!</h2>
+                <p>If you like my work let's talk about it</p>
+                <a href='mailto:davidromero1244@gmail.com' className='sendMail'>
+                    <button>
+                        <i class="far fa-envelope fa-3x"></i>
+                    </button>
+                </a>
+
+                <ul>
+                    <li>
+                        <a href="https://www.linkedin.com/in/davidromero-l/">
+                            <i class="fab fa-linkedin fa-3x"></i>
+                        </a>
+                    </li>
+                    <li>
+                        <a href="https://github.com/Darolo13">
+                            <i class="fab fa-github fa-3x"></i>
+                        </a>
+                    </li>
+
+
+                </ul>
             </div>
         </div>
     );

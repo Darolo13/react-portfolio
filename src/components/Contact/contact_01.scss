@@ -1,0 +1,68 @@
+@import "../../global.scss";
+
+.contact {
+    background-color: white;
+    display: flex;
+
+    @include mobile {
+        flex-direction: column;
+    }
+
+    .left {
+        flex: 1;
+        overflow: hidden;
+
+        img {
+            height: 100%;
+        }
+    }
+
+    .right {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+
+        h2 {
+            font-size: 30px;
+            text-align: center;
+        }
+
+        p {
+            padding: 10px;
+        }
+
+        .sendMail {
+            
+            button {
+                width: 180px;
+                color: white;
+                background-color: $mainColor;
+                border: none;
+                border-radius: 10px;
+                font-weight: 500;
+                cursor: pointer;
+                transition: all 1s ease;
+                overflow: hidden;
+
+                &:focus {
+                    outline: none;
+                }
+
+                &:hover {
+                    background-color: rgb(161, 161, 161);
+                    color: $mainColor;
+                }
+            }
+
+            span {
+                color: rgb(75, 23, 158);
+            }
+        }
+
+        ul {
+            display: flex;
+        }
+    }
+}

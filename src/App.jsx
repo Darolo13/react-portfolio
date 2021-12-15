@@ -1,3 +1,5 @@
+import React from 'react';
+
 // components
 import Topbar from './components/Topbar';
 
@@ -15,7 +17,9 @@ import { useState } from 'react';
 import Menu from './components/Menu';
 
 function App() {
+
   const [menuOpen, setMenuOpen] = useState(false);
+
   return (
     <div className="app">
       <Topbar menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
